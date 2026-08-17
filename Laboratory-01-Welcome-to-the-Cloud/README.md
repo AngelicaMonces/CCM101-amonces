@@ -15,7 +15,7 @@ Completed the CloudNova Technologies onboarding mission using the KillerCoda Lin
 - Uploaded the completed work to GitHub.
 
 ## Linux Commands Used
-`pwd`, `ls`, `cd`, `mkdir`, `touch`, `cat`, `whoami`, `uname`, `lscpu`, `free`, `df`, and `find`.
+`pwd`, `ls`, `cd`, `mkdir`, `cat`, `whoami`, `uname`, `lscpu`, `free`, `df`
 
 ## Skills Learned
 Developed practical skills in Linux navigation, system administration, file management, technical documentation, and maintaining a professional GitHub portfolio.
